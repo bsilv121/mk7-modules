@@ -1,0 +1,8 @@
+{
+    "name": "Deauth",
+    "title": "Auto-deauthentication",
+    "description": "Broadcast a deauthentication signal to selected client or to all clients on a chosen SSID, untill the stop command is entered",
+    "version": "1.0",
+    "author": "Silson"
+}
+
